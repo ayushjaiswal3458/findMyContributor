@@ -1,0 +1,2 @@
+GET https://api-dev.domecompass.com/groups?status=all-groups
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIxIiwic3ViIjoyMDIsImF1ZCI6IioiLCJ0eXBlIjoidXNlciIsImlhdCI6MTYyOTUyNjY5OCwibmJmIjoxNjI5NTI2Njk4LCJleHAiOjE2Mjk3ODU4OTh9.uR_Nu6J1hxufHemuGuXc4GXeZnJPoYRSsbHVeQrXC24
