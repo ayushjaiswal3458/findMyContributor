@@ -58,6 +58,8 @@ export const me = () => {
 }
 export const meUpdate = (data:any) => {
     const url = BASE_URL + "/me";
-    return axios.put(url, data).then((response) => response);
+    return axios.put(url, data).then((response) => {
+        console.log(response)
+    return response});
 }
 

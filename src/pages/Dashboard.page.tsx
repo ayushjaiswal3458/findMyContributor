@@ -25,7 +25,7 @@ const Dashboard: FC<Props> = ({ className }) => {
   
   return (
     <div >
-    <img src ="/banner.jpg" className="w-screen h-full object-cover"/>
+    <img src ="/banner.jpg" className={`w-screen h-full object-cover`}/>
     <div className={`${className} absolute top-0`}>
       {user && <div className="flex text-2xl m-4 font-medium ">
           <img src = {user.profile_pic_url} onError = {(e:any) => {
