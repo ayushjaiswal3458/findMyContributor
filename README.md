@@ -55,15 +55,21 @@ for the project. Project Scheduling should be made using chats. Feasibility
 study is carried out decide whether the proposed system is feasible for the
 company. It begins with a request from the user for a new system.
 It involves the following:
+
 • Identify the responsible user for a new system.
+
 • Clarify the user request
+
 • Identify deficiencies in the current system
+
 • Establish goals and objectives for the new system.
+
 • Determine the feasibility for the new system
+
 • Prepare a project charter that will be used to guide the remainder of
 the Project. 
 
-### FUnctional Specification
+### Functional Specification
 Requirement Gathering and analysis − All possible requirements of the
 system to be developed are captured in this phase and documented in a
 requirement specification document.
